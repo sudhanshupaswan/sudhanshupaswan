@@ -1,21 +1,71 @@
-# 💫 About Me:
-🚀 About Me<br><br>🔭 I’m currently working on<br>Building a scalable Conference Management System using Angular 17 & NestJS with modular architecture, authentication, role-based access control, document management, and analytics.<br><br>👯 I’m looking to collaborate on<br>Enterprise-level Angular applications, performance optimization projects, and full-stack apps using Angular + .NET / Node.js.<br><br>🤝 I’m looking for help with<br>System design, microservices architecture, and advanced backend scaling strategies.<br><br>🌱 I’m currently learning<br>.NET Core (end-to-end project building), system design fundamentals, and advanced backend development to transition into a strong full-stack/lead role.<br><br>💬 Ask me about<br><br>Angular (Reactive Forms, RxJS, Performance Optimization)<br><br>State Management & Modular Architecture<br><br>REST API integration<br><br>Frontend interview preparation<br><br>Clean & maintainable code practices<br><br>⚡ Fun fact<br>I love converting complex business requirements into clean, scalable UI architecture — and optimizing applications for performance and maintainability.
+# 👋 About Me
 
+🚀 **I'm currently working on**
+Building performance-optimized airline and enterprise web applications 
+using Angular 17, React, and TypeScript for international clients 
+including Volotea.com, Eurowings, Aegean, and Avincis.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sudhanshu-paswan-2652a016) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sudhanshu2000@gmail.com) 
+👥 **I'm looking to collaborate on**
+Enterprise-level Angular/React applications, micro-frontend architecture, 
+performance optimization projects, and full-stack apps using Angular + Python/FastAPI.
 
-# 💻 Tech Stack:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Jasmine](https://img.shields.io/badge/-Jasmine-%238A4182?style=for-the-badge&logo=Jasmine&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sudhanshupaswan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sudhanshupaswan&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sudhanshupaswan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+🤝 **I'm looking for help with**
+System design, cloud deployment (AWS/Docker), and advanced backend scaling strategies.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sudhanshupaswan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+🌱 **I'm currently learning**
+Python · FastAPI · AWS (EC2, S3, Lambda) · Docker
+
+💬 **Ask me about**
+- Angular 7–17 (Signals, NgRx, Micro-Frontend, Standalone Components)
+- React (Hooks, Infinite Scroll, Performance Optimization)
+- RxJS (switchMap, combineLatest, polling patterns)
+- Reactive Forms & Advanced Validation
+- Micro-Frontend Architecture (Module Federation)
+- Airline Booking System Architecture
+- State Management (NgRx, Angular Signals)
+- REST API Integration & Performance Optimization
+
+⚡ **Fun fact**
+I love converting complex business requirements into clean, scalable UI 
+architecture — and I've done it for 3 international airline clients! ✈️
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sudhanshupaswan&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🛠️ Tech Stack
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+---
+
+## 📌 Featured Projects
+
+| Project | Tech | Description |
+|---|---|---|
+| 🍕 Zomato Lite | React, Hooks, Intersection Observer | Food delivery app with infinite scroll |
+| ✈️ Airline Booking Flow | Angular 13, RxJS, NgRx | 5-step booking for Volotea.com |
+| 👔 Avincis Uniform Platform | Angular 17, Signals | Airline staff uniform management |
+
+---
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudhanshu-paswan-2652a016/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sudhanshupaswan)
+```
+
+---
+
+## ⚡ 3 Quick Actions Bhi Karo GitHub Pe
+
+1. **Bio** (profile ke neeche) update karo:
+```
+Senior Frontend Lead | Angular 17 · React · TypeScript | Open to Lead roles
