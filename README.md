@@ -51,8 +51,6 @@ architecture — and I've done it for 3 international airline clients! ✈️
 | Project | Tech | Description |
 |---|---|---|
 | 🍕 Zomato Lite | React, Hooks, Intersection Observer | Food delivery app with infinite scroll |
-| ✈️ Airline Booking Flow | Angular 13, RxJS, NgRx | 5-step booking for Volotea.com |
-| 👔 Avincis Uniform Platform | Angular 17, Signals | Airline staff uniform management |
 
 ---
 
